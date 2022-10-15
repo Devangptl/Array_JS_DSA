@@ -11,5 +11,5 @@ for (let a = 0; a < i; a++) {
   arr[a] = Number.parseInt(arr[a])
 }
 
-console.log(arr)
-console.log(arr.reverse())
+console.log("Array is : " + arr)
+console.log("Reverse array is : " + arr.reverse())
